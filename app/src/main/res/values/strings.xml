@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical_4</string>
+    <string name="crushed_nuts">Crushed nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="orio_cookie_crumble">Orio cookie crumble</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="chocolate_syrup">Chocolate syrup</string>
+    <string name="topping">Topping</string>
+    <string name="sprinkles">Sprinkles</string>
+</resources>
